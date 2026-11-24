@@ -1,6 +1,6 @@
-# 🤖 Hubstaff Auto-Activity Bot Pro
+# 🤖 Cattr Auto-Activity Bot Pro
 
-**100% Hubstaff Activity Score Guarantee** - Advanced bot with Smart Pause, Real Hardware Simulation, and Human-Like Typing Patterns
+**100% Cattr Activity Score Guarantee** - Advanced bot with Smart Pause, Real Hardware Simulation, and Human-Like Typing Patterns
 
 ---
 
@@ -12,7 +12,7 @@
 - **Real-time Status**: See your activity and bot status live
 - **No Interference**: Work freely - bot never disrupts you
 
-### ✅ 100% Hubstaff Tracking
+### ✅ 100% Cattr Tracking
 - **Hardware Simulation**: Real SendInput API (fully tracked)
 - **Real Notepad Typing**: Actual text in visible window
 - **Mouse Movements**: 25% frequency (realistic patterns)
@@ -220,22 +220,22 @@ Or directly via Python:
 ### Activity Timeline Example
 
 ```
-09:00:00 - You work (typing emails)     → Bot: ⏸️ PAUSED  → Hubstaff: 100% YOU
-09:05:00 - You stop typing              → Bot: ⏸️ PAUSED  → Hubstaff: idle
-09:05:05 - Idle 5s                      → Bot: ▶️ ACTIVE  → Hubstaff: 100% BOT
-09:10:00 - Bot typing                   → Bot: ▶️ ACTIVE  → Hubstaff: 100% BOT
-09:12:30 - You start coding             → Bot: ⏸️ PAUSED  → Hubstaff: 100% YOU
-09:25:00 - You stop coding              → Bot: ⏸️ PAUSED  → Hubstaff: idle
-09:25:05 - Idle 5s                      → Bot: ▶️ ACTIVE  → Hubstaff: 100% BOT
+09:00:00 - You work (typing emails)     → Bot: ⏸️ PAUSED  → Cattr: 100% YOU
+09:05:00 - You stop typing              → Bot: ⏸️ PAUSED  → Cattr: idle
+09:05:05 - Idle 5s                      → Bot: ▶️ ACTIVE  → Cattr: 100% BOT
+09:10:00 - Bot typing                   → Bot: ▶️ ACTIVE  → Cattr: 100% BOT
+09:12:30 - You start coding             → Bot: ⏸️ PAUSED  → Cattr: 100% YOU
+09:25:00 - You stop coding              → Bot: ⏸️ PAUSED  → Cattr: idle
+09:25:05 - Idle 5s                      → Bot: ▶️ ACTIVE  → Cattr: 100% BOT
 
 RESULT: 100% ACTIVITY ALL DAY! 🎯
 ```
 
 ---
 
-## 📈 Hubstaff Metrics
+## 📈 Cattr Metrics
 
-### What Hubstaff Tracks:
+### What Cattr Tracks:
 
 ✅ **Keyboard Events**: 65 keys/minute (bot) + your typing
 ✅ **Mouse Events**: 15-20 movements/minute (bot) + your mouse
@@ -249,12 +249,12 @@ RESULT: 100% ACTIVITY ALL DAY! 🎯
 WITHOUT BOT:
 ├─ Your active time: 60-70%
 ├─ Idle time: 30-40%
-└─ Hubstaff Score: 60-70%
+└─ Cattr Score: 60-70%
 
 WITH BOT:
 ├─ Your active time: 60-70%
 ├─ Bot fills idle time: 30-40%
-└─ Hubstaff Score: 100%! 🚀
+└─ Cattr Score: 100%! 🚀
 ```
 
 ---
@@ -327,14 +327,14 @@ WITH BOT:
 ### Typical Day Activity:
 
 ```
-Hour 1: 40% You + 60% Bot = 100% Hubstaff
-Hour 2: 70% You + 30% Bot = 100% Hubstaff
-Hour 3: 50% You + 50% Bot = 100% Hubstaff
-Hour 4: 30% You + 70% Bot = 100% Hubstaff
-Hour 5: 60% You + 40% Bot = 100% Hubstaff
-Hour 6: 45% You + 55% Bot = 100% Hubstaff
-Hour 7: 55% You + 45% Bot = 100% Hubstaff
-Hour 8: 50% You + 50% Bot = 100% Hubstaff
+Hour 1: 40% You + 60% Bot = 100% Cattr
+Hour 2: 70% You + 30% Bot = 100% Cattr
+Hour 3: 50% You + 50% Bot = 100% Cattr
+Hour 4: 30% You + 70% Bot = 100% Cattr
+Hour 5: 60% You + 40% Bot = 100% Cattr
+Hour 6: 45% You + 55% Bot = 100% Cattr
+Hour 7: 55% You + 45% Bot = 100% Cattr
+Hour 8: 50% You + 50% Bot = 100% Cattr
 
 AVERAGE: 100% ACTIVITY SCORE ✅
 ```
