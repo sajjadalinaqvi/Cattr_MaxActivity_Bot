@@ -1,0 +1,470 @@
+{
+  "session_start": "2026-09-07T15:33:57.689544",
+  "session_end": "2026-09-07T15:37:55.003380",
+  "statistics": {
+    "total_keypresses": 65,
+    "success_rate": 12.307692307692308,
+    "avg_interval": 2.737149817602975,
+    "min_interval": 0.9349007606506348,
+    "max_interval": 9.963358402252197,
+    "session_duration": 237.313836,
+    "keypresses_per_minute": 16.433934345067012
+  },
+  "activity_log": [
+    {
+      "timestamp": "2026-09-07T15:34:07.760071",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820447.7600935
+    },
+    {
+      "timestamp": "2026-09-07T15:34:08.711649",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820448.7116644
+    },
+    {
+      "timestamp": "2026-09-07T15:34:09.646715",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820449.6467345
+    },
+    {
+      "timestamp": "2026-09-07T15:34:10.643465",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820450.643483
+    },
+    {
+      "timestamp": "2026-09-07T15:34:13.206946",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820453.2069652
+    },
+    {
+      "timestamp": "2026-09-07T15:34:15.480253",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820455.480271
+    },
+    {
+      "timestamp": "2026-09-07T15:34:16.956794",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820456.956806
+    },
+    {
+      "timestamp": "2026-09-07T15:34:26.920349",
+      "hwnd": 2295480,
+      "window_title": "*the quick b - Notepad",
+      "success": true,
+      "unix_time": 1788820466.9203713
+    },
+    {
+      "timestamp": "2026-09-07T15:36:19.801418",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820579.8014276
+    },
+    {
+      "timestamp": "2026-09-07T15:36:20.653496",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820580.6535094
+    },
+    {
+      "timestamp": "2026-09-07T15:36:21.542927",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820581.5429387
+    },
+    {
+      "timestamp": "2026-09-07T15:36:22.414375",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820582.4143846
+    },
+    {
+      "timestamp": "2026-09-07T15:36:23.173712",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820583.1737218
+    },
+    {
+      "timestamp": "2026-09-07T15:36:23.889092",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820583.8891091
+    },
+    {
+      "timestamp": "2026-09-07T15:36:24.653335",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820584.6533456
+    },
+    {
+      "timestamp": "2026-09-07T15:36:25.473430",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820585.473445
+    },
+    {
+      "timestamp": "2026-09-07T15:36:26.331988",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820586.3319974
+    },
+    {
+      "timestamp": "2026-09-07T15:36:27.126325",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820587.126339
+    },
+    {
+      "timestamp": "2026-09-07T15:36:27.965451",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820587.9654605
+    },
+    {
+      "timestamp": "2026-09-07T15:36:28.849484",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820588.8494947
+    },
+    {
+      "timestamp": "2026-09-07T15:36:29.799860",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820589.7998717
+    },
+    {
+      "timestamp": "2026-09-07T15:36:30.709033",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820590.7090433
+    },
+    {
+      "timestamp": "2026-09-07T15:36:31.485697",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820591.485714
+    },
+    {
+      "timestamp": "2026-09-07T15:36:32.225476",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820592.2254949
+    },
+    {
+      "timestamp": "2026-09-07T15:36:33.118382",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820593.118392
+    },
+    {
+      "timestamp": "2026-09-07T15:36:33.875546",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820593.8755538
+    },
+    {
+      "timestamp": "2026-09-07T15:36:34.795492",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820594.795505
+    },
+    {
+      "timestamp": "2026-09-07T15:36:35.671676",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820595.671688
+    },
+    {
+      "timestamp": "2026-09-07T15:36:36.569308",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820596.5693178
+    },
+    {
+      "timestamp": "2026-09-07T15:36:37.396310",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820597.3963225
+    },
+    {
+      "timestamp": "2026-09-07T15:36:38.087371",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820598.0873857
+    },
+    {
+      "timestamp": "2026-09-07T15:36:38.774558",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820598.7745705
+    },
+    {
+      "timestamp": "2026-09-07T15:36:39.454682",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820599.4546952
+    },
+    {
+      "timestamp": "2026-09-07T15:36:40.422504",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820600.4225137
+    },
+    {
+      "timestamp": "2026-09-07T15:36:41.133226",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820601.1332426
+    },
+    {
+      "timestamp": "2026-09-07T15:36:41.871329",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820601.8713503
+    },
+    {
+      "timestamp": "2026-09-07T15:36:42.728466",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820602.7284803
+    },
+    {
+      "timestamp": "2026-09-07T15:36:43.512515",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820603.5125253
+    },
+    {
+      "timestamp": "2026-09-07T15:36:44.377534",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820604.3775465
+    },
+    {
+      "timestamp": "2026-09-07T15:36:45.133491",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820605.1335003
+    },
+    {
+      "timestamp": "2026-09-07T15:36:56.097620",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820616.0976353
+    },
+    {
+      "timestamp": "2026-09-07T15:36:56.963698",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820616.963708
+    },
+    {
+      "timestamp": "2026-09-07T15:36:59.162137",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820619.1621454
+    },
+    {
+      "timestamp": "2026-09-07T15:36:59.977319",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820619.9773297
+    },
+    {
+      "timestamp": "2026-09-07T15:37:00.783273",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820620.7832828
+    },
+    {
+      "timestamp": "2026-09-07T15:37:12.386465",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820632.3864782
+    },
+    {
+      "timestamp": "2026-09-07T15:37:13.174309",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820633.1743193
+    },
+    {
+      "timestamp": "2026-09-07T15:37:13.877571",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820633.8775826
+    },
+    {
+      "timestamp": "2026-09-07T15:37:14.648074",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820634.6480842
+    },
+    {
+      "timestamp": "2026-09-07T15:37:15.447344",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820635.4473577
+    },
+    {
+      "timestamp": "2026-09-07T15:37:16.164055",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820636.164075
+    },
+    {
+      "timestamp": "2026-09-07T15:37:16.869206",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820636.8692155
+    },
+    {
+      "timestamp": "2026-09-07T15:37:17.679648",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820637.679661
+    },
+    {
+      "timestamp": "2026-09-07T15:37:18.538930",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820638.5389524
+    },
+    {
+      "timestamp": "2026-09-07T15:37:19.518315",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820639.5183268
+    },
+    {
+      "timestamp": "2026-09-07T15:37:20.339600",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820640.33962
+    },
+    {
+      "timestamp": "2026-09-07T15:37:21.035487",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820641.035504
+    },
+    {
+      "timestamp": "2026-09-07T15:37:21.730745",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820641.7307668
+    },
+    {
+      "timestamp": "2026-09-07T15:37:22.624011",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820642.6240234
+    },
+    {
+      "timestamp": "2026-09-07T15:37:23.530227",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820643.530236
+    },
+    {
+      "timestamp": "2026-09-07T15:37:24.402168",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820644.4021878
+    },
+    {
+      "timestamp": "2026-09-07T15:37:25.166701",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820645.1667187
+    },
+    {
+      "timestamp": "2026-09-07T15:37:26.072799",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820646.0728078
+    },
+    {
+      "timestamp": "2026-09-07T15:37:26.732158",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820646.7321715
+    },
+    {
+      "timestamp": "2026-09-07T15:37:38.530680",
+      "hwnd": 2295480,
+      "window_title": "Unknown Window",
+      "success": false,
+      "unix_time": 1788820658.5306916
+    }
+  ]
+}

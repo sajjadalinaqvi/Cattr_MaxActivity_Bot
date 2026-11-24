@@ -1,0 +1,148 @@
+{
+  "session_start": "2026-09-07T16:09:26.572739",
+  "session_end": "2026-09-07T16:10:00.298166",
+  "statistics": {
+    "total_keypresses": 19,
+    "success_rate": 0.0,
+    "avg_interval": 0,
+    "min_interval": 0,
+    "max_interval": 0,
+    "session_duration": 33.725427,
+    "keypresses_per_minute": 33.802388921569474
+  },
+  "activity_log": [
+    {
+      "timestamp": "2026-09-07T16:09:38.695886",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822578.6958866
+    },
+    {
+      "timestamp": "2026-09-07T16:09:39.652594",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822579.652594
+    },
+    {
+      "timestamp": "2026-09-07T16:09:40.516697",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822580.5166974
+    },
+    {
+      "timestamp": "2026-09-07T16:09:41.537961",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822581.537961
+    },
+    {
+      "timestamp": "2026-09-07T16:09:43.861631",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822583.8616314
+    },
+    {
+      "timestamp": "2026-09-07T16:09:44.970710",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822584.9707108
+    },
+    {
+      "timestamp": "2026-09-07T16:09:46.478006",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822586.4780064
+    },
+    {
+      "timestamp": "2026-09-07T16:09:47.411843",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822587.4118435
+    },
+    {
+      "timestamp": "2026-09-07T16:09:48.616103",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822588.6161034
+    },
+    {
+      "timestamp": "2026-09-07T16:09:49.596724",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822589.5967245
+    },
+    {
+      "timestamp": "2026-09-07T16:09:50.443093",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822590.4430933
+    },
+    {
+      "timestamp": "2026-09-07T16:09:51.385906",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822591.3859062
+    },
+    {
+      "timestamp": "2026-09-07T16:09:52.274865",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822592.2748654
+    },
+    {
+      "timestamp": "2026-09-07T16:09:53.263186",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822593.2631867
+    },
+    {
+      "timestamp": "2026-09-07T16:09:54.259550",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822594.2595506
+    },
+    {
+      "timestamp": "2026-09-07T16:09:55.248058",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822595.2490559
+    },
+    {
+      "timestamp": "2026-09-07T16:09:56.317833",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822596.3178332
+    },
+    {
+      "timestamp": "2026-09-07T16:09:57.095187",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822597.0951872
+    },
+    {
+      "timestamp": "2026-09-07T16:09:58.429430",
+      "hwnd": 329908,
+      "window_title": "Untitled - Notepad",
+      "success": false,
+      "unix_time": 1788822598.42943
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "session_start": "2026-09-07T17:18:39.542224",
+  "session_end": "2026-09-07T17:20:37.481048",
+  "statistics": {
+    "total_keypresses": 46,
+    "success_rate": 65.21739130434783,
+    "avg_interval": 1.567241289655142,
+    "min_interval": 0.5237462000004598,
+    "max_interval": 3.5222216000001936,
+    "session_duration": 117.938824,
+    "keypresses_per_minute": 23.401963038057765
+  },
+  "activity_log": [
+    {
+      "timestamp": "2026-09-07T17:18:50.808316",
+      "hwnd": 1706018,
+      "window_title": "Untitled - Notepad",
+      "success": true,
+      "unix_time": 1788826730.8083162
+    },
+    {
+      "timestamp": "2026-09-07T17:18:52.251059",
+      "hwnd": 1706018,
+      "window_title": "*T - Notepad",
+      "success": true,
+      "unix_time": 1788826732.2510593
+    },
+    {
+      "timestamp": "2026-09-07T17:18:54.599625",
+      "hwnd": 1706018,
+      "window_title": "*Th - Notepad",
+      "success": true,
+      "unix_time": 1788826734.599625
+    },
+    {
+      "timestamp": "2026-09-07T17:18:55.474943",
+      "hwnd": 1706018,
+      "window_title": "*The - Notepad",
+      "success": true,
+      "unix_time": 1788826735.474944
+    },
+    {
+      "timestamp": "2026-09-07T17:18:57.543175",
+      "hwnd": 1706018,
+      "window_title": "*The - Notepad",
+      "success": true,
+      "unix_time": 1788826737.5441723
+    },
+    {
+      "timestamp": "2026-09-07T17:18:59.529185",
+      "hwnd": 1706018,
+      "window_title": "*The q - Notepad",
+      "success": true,
+      "unix_time": 1788826739.529185
+    },
+    {
+      "timestamp": "2026-09-07T17:19:01.239654",
+      "hwnd": 1706018,
+      "window_title": "*The qu - Notepad",
+      "success": true,
+      "unix_time": 1788826741.2396545
+    },
+    {
+      "timestamp": "2026-09-07T17:19:02.320071",
+      "hwnd": 1706018,
+      "window_title": "*The qui - Notepad",
+      "success": true,
+      "unix_time": 1788826742.3200715
+    },
+    {
+      "timestamp": "2026-09-07T17:19:04.686443",
+      "hwnd": 1706018,
+      "window_title": "*The quic - Notepad",
+      "success": true,
+      "unix_time": 1788826744.6864438
+    },
+    {
+      "timestamp": "2026-09-07T17:19:05.209868",
+      "hwnd": 1706018,
+      "window_title": "*The quick - Notepad",
+      "success": true,
+      "unix_time": 1788826745.209868
+    },
+    {
+      "timestamp": "2026-09-07T17:19:07.557931",
+      "hwnd": 1706018,
+      "window_title": "*The quick - Notepad",
+      "success": true,
+      "unix_time": 1788826747.5579317
+    },
+    {
+      "timestamp": "2026-09-07T17:19:09.474972",
+      "hwnd": 1706018,
+      "window_title": "*The quick b - Notepad",
+      "success": true,
+      "unix_time": 1788826749.4749725
+    },
+    {
+      "timestamp": "2026-09-07T17:19:10.719931",
+      "hwnd": 1706018,
+      "window_title": "*The quick br - Notepad",
+      "success": true,
+      "unix_time": 1788826750.7199314
+    },
+    {
+      "timestamp": "2026-09-07T17:19:12.473711",
+      "hwnd": 1706018,
+      "window_title": "*The quick bro - Notepad",
+      "success": true,
+      "unix_time": 1788826752.4737113
+    },
+    {
+      "timestamp": "2026-09-07T17:19:15.996350",
+      "hwnd": 1706018,
+      "window_title": "*The quick brow - Notepad",
+      "success": true,
+      "unix_time": 1788826755.9963505
+    },
+    {
+      "timestamp": "2026-09-07T17:19:16.843734",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown - Notepad",
+      "success": true,
+      "unix_time": 1788826756.8437345
+    },
+    {
+      "timestamp": "2026-09-07T17:19:18.194148",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown - Notepad",
+      "success": true,
+      "unix_time": 1788826758.1941485
+    },
+    {
+      "timestamp": "2026-09-07T17:19:19.536041",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown f - Notepad",
+      "success": true,
+      "unix_time": 1788826759.5360413
+    },
+    {
+      "timestamp": "2026-09-07T17:19:20.393971",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fo - Notepad",
+      "success": true,
+      "unix_time": 1788826760.3939714
+    },
+    {
+      "timestamp": "2026-09-07T17:19:21.274358",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox - Notepad",
+      "success": true,
+      "unix_time": 1788826761.2743587
+    },
+    {
+      "timestamp": "2026-09-07T17:19:22.715198",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox - Notepad",
+      "success": true,
+      "unix_time": 1788826762.7151983
+    },
+    {
+      "timestamp": "2026-09-07T17:19:23.688541",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox j - Notepad",
+      "success": true,
+      "unix_time": 1788826763.6885417
+    },
+    {
+      "timestamp": "2026-09-07T17:19:25.128152",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox ju - Notepad",
+      "success": true,
+      "unix_time": 1788826765.1281526
+    },
+    {
+      "timestamp": "2026-09-07T17:19:26.470262",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jum - Notepad",
+      "success": true,
+      "unix_time": 1788826766.470262
+    },
+    {
+      "timestamp": "2026-09-07T17:19:29.218523",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jump - Notepad",
+      "success": true,
+      "unix_time": 1788826769.2185235
+    },
+    {
+      "timestamp": "2026-09-07T17:19:31.348916",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps - Notepad",
+      "success": true,
+      "unix_time": 1788826771.3489165
+    },
+    {
+      "timestamp": "2026-09-07T17:19:32.040716",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps - Notepad",
+      "success": true,
+      "unix_time": 1788826772.0407162
+    },
+    {
+      "timestamp": "2026-09-07T17:19:32.909061",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps o - Notepad",
+      "success": true,
+      "unix_time": 1788826772.909062
+    },
+    {
+      "timestamp": "2026-09-07T17:19:35.108436",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps ov - Notepad",
+      "success": true,
+      "unix_time": 1788826775.1084368
+    },
+    {
+      "timestamp": "2026-09-07T17:19:36.257785",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps ove - Notepad",
+      "success": true,
+      "unix_time": 1788826776.2577856
+    },
+    {
+      "timestamp": "2026-09-07T17:19:56.538996",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826796.5389965
+    },
+    {
+      "timestamp": "2026-09-07T17:19:57.625836",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826797.6258368
+    },
+    {
+      "timestamp": "2026-09-07T17:19:58.187172",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826798.187173
+    },
+    {
+      "timestamp": "2026-09-07T17:19:59.034213",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826799.034213
+    },
+    {
+      "timestamp": "2026-09-07T17:20:00.417195",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826800.4171953
+    },
+    {
+      "timestamp": "2026-09-07T17:20:02.068814",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826802.0688148
+    },
+    {
+      "timestamp": "2026-09-07T17:20:02.989279",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826802.9892797
+    },
+    {
+      "timestamp": "2026-09-07T17:20:04.433481",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826804.433482
+    },
+    {
+      "timestamp": "2026-09-07T17:20:05.205036",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826805.2050369
+    },
+    {
+      "timestamp": "2026-09-07T17:20:06.293904",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826806.293904
+    },
+    {
+      "timestamp": "2026-09-07T17:20:08.295487",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826808.295487
+    },
+    {
+      "timestamp": "2026-09-07T17:20:09.656980",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826809.6569803
+    },
+    {
+      "timestamp": "2026-09-07T17:20:10.750310",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826810.7503102
+    },
+    {
+      "timestamp": "2026-09-07T17:20:11.556483",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826811.556483
+    },
+    {
+      "timestamp": "2026-09-07T17:20:14.116405",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826814.1164055
+    },
+    {
+      "timestamp": "2026-09-07T17:20:16.085001",
+      "hwnd": 1706018,
+      "window_title": "*The quick brown fox jumps over - Notepad",
+      "success": false,
+      "unix_time": 1788826816.0850012
+    }
+  ]
+}

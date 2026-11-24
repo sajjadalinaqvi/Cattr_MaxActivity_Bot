@@ -1,0 +1,365 @@
+{
+  "session_start": "2026-09-07T15:14:59.164348",
+  "session_end": "2026-09-07T15:18:59.757132",
+  "statistics": {
+    "total_keypresses": 50,
+    "success_rate": 100.0,
+    "avg_interval": 4.152230836907211,
+    "min_interval": 0.906609296798706,
+    "max_interval": 52.80259037017822,
+    "session_duration": 240.592784,
+    "keypresses_per_minute": 12.469201902580753
+  },
+  "activity_log": [
+    {
+      "timestamp": "2026-09-07T15:15:28.265075",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819328.2650962
+    },
+    {
+      "timestamp": "2026-09-07T15:15:29.537876",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819329.5378888
+    },
+    {
+      "timestamp": "2026-09-07T15:15:30.534404",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819330.5344174
+    },
+    {
+      "timestamp": "2026-09-07T15:15:31.655088",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819331.6551018
+    },
+    {
+      "timestamp": "2026-09-07T15:15:32.730812",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819332.7308211
+    },
+    {
+      "timestamp": "2026-09-07T15:15:33.737806",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819333.7378163
+    },
+    {
+      "timestamp": "2026-09-07T15:15:35.867893",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819335.8679023
+    },
+    {
+      "timestamp": "2026-09-07T15:15:36.829034",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819336.8290453
+    },
+    {
+      "timestamp": "2026-09-07T15:15:37.734090",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819337.7341003
+    },
+    {
+      "timestamp": "2026-09-07T15:15:38.704945",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819338.7049549
+    },
+    {
+      "timestamp": "2026-09-07T15:15:41.734961",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819341.7349703
+    },
+    {
+      "timestamp": "2026-09-07T15:15:42.884431",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819342.8844414
+    },
+    {
+      "timestamp": "2026-09-07T15:15:44.001959",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819344.0019689
+    },
+    {
+      "timestamp": "2026-09-07T15:15:45.018921",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819345.0189342
+    },
+    {
+      "timestamp": "2026-09-07T15:15:46.103325",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819346.1033354
+    },
+    {
+      "timestamp": "2026-09-07T15:15:47.108866",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819347.108879
+    },
+    {
+      "timestamp": "2026-09-07T15:15:48.154073",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819348.1540833
+    },
+    {
+      "timestamp": "2026-09-07T15:15:49.427022",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819349.4270313
+    },
+    {
+      "timestamp": "2026-09-07T15:15:50.349912",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819350.3499212
+    },
+    {
+      "timestamp": "2026-09-07T15:15:51.375073",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819351.3750913
+    },
+    {
+      "timestamp": "2026-09-07T15:15:52.461154",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819352.461164
+    },
+    {
+      "timestamp": "2026-09-07T15:15:53.619671",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819353.6196978
+    },
+    {
+      "timestamp": "2026-09-07T15:15:54.763020",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819354.7630327
+    },
+    {
+      "timestamp": "2026-09-07T15:15:56.021721",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819356.0217345
+    },
+    {
+      "timestamp": "2026-09-07T15:15:57.081795",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819357.0818074
+    },
+    {
+      "timestamp": "2026-09-07T15:15:58.087415",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819358.0874245
+    },
+    {
+      "timestamp": "2026-09-07T15:15:59.290703",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819359.2907126
+    },
+    {
+      "timestamp": "2026-09-07T15:16:00.289117",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819360.289131
+    },
+    {
+      "timestamp": "2026-09-07T15:16:01.364000",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819361.3640094
+    },
+    {
+      "timestamp": "2026-09-07T15:16:02.526005",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819362.526014
+    },
+    {
+      "timestamp": "2026-09-07T15:16:03.557191",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819363.5572019
+    },
+    {
+      "timestamp": "2026-09-07T15:16:33.842890",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819393.842908
+    },
+    {
+      "timestamp": "2026-09-07T15:16:35.284025",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819395.2840366
+    },
+    {
+      "timestamp": "2026-09-07T15:16:36.512611",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819396.512623
+    },
+    {
+      "timestamp": "2026-09-07T15:16:37.510555",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819397.5105681
+    },
+    {
+      "timestamp": "2026-09-07T15:16:38.603642",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819398.6036549
+    },
+    {
+      "timestamp": "2026-09-07T15:17:22.435257",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819442.43527
+    },
+    {
+      "timestamp": "2026-09-07T15:17:23.898441",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819443.8984601
+    },
+    {
+      "timestamp": "2026-09-07T15:17:24.932695",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819444.93271
+    },
+    {
+      "timestamp": "2026-09-07T15:17:26.215112",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819446.2151256
+    },
+    {
+      "timestamp": "2026-09-07T15:17:40.345706",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819460.3457189
+    },
+    {
+      "timestamp": "2026-09-07T15:17:51.416143",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819471.416154
+    },
+    {
+      "timestamp": "2026-09-07T15:17:52.542617",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819472.5426269
+    },
+    {
+      "timestamp": "2026-09-07T15:17:53.679060",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819473.6790733
+    },
+    {
+      "timestamp": "2026-09-07T15:17:54.632692",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819474.6327012
+    },
+    {
+      "timestamp": "2026-09-07T15:17:55.597853",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819475.5978634
+    },
+    {
+      "timestamp": "2026-09-07T15:18:48.392600",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819528.3926115
+    },
+    {
+      "timestamp": "2026-09-07T15:18:49.313115",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819529.3131273
+    },
+    {
+      "timestamp": "2026-09-07T15:18:50.327657",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819530.3276687
+    },
+    {
+      "timestamp": "2026-09-07T15:18:51.717697",
+      "hwnd": 919198,
+      "window_title": "*sa - Notepad",
+      "success": true,
+      "unix_time": 1788819531.717708
+    }
+  ]
+}

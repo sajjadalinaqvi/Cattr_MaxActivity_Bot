@@ -1,0 +1,624 @@
+{
+  "session_start": "2026-09-07T18:30:43.983451",
+  "session_end": "2026-09-07T18:31:22.632084",
+  "statistics": {
+    "total_keypresses": 87,
+    "success_rate": 100.0,
+    "avg_interval": 0.19683107411752537,
+    "min_interval": 0.07809210000414168,
+    "max_interval": 1.731130000000121,
+    "session_duration": 38.648633,
+    "keypresses_per_minute": 135.06299174928128
+  },
+  "activity_log": [
+    {
+      "timestamp": "2026-09-07T18:29:33.302419",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830973.30242
+    },
+    {
+      "timestamp": "2026-09-07T18:29:33.406467",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830973.406467
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.136324",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.1363242
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.233441",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.2334416
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.314940",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.3149402
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.493428",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.4934282
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.576897",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.576897
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.729550",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.7295508
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.823618",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.823619
+    },
+    {
+      "timestamp": "2026-09-07T18:29:35.928914",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830975.9289148
+    },
+    {
+      "timestamp": "2026-09-07T18:29:36.082904",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830976.0829048
+    },
+    {
+      "timestamp": "2026-09-07T18:29:36.162400",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830976.162401
+    },
+    {
+      "timestamp": "2026-09-07T18:29:36.257464",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830976.2574642
+    },
+    {
+      "timestamp": "2026-09-07T18:29:36.353427",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830976.353428
+    },
+    {
+      "timestamp": "2026-09-07T18:29:36.536456",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830976.536456
+    },
+    {
+      "timestamp": "2026-09-07T18:29:36.640926",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830976.6409268
+    },
+    {
+      "timestamp": "2026-09-07T18:29:36.732875",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830976.732875
+    },
+    {
+      "timestamp": "2026-09-07T18:29:37.017483",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830977.017483
+    },
+    {
+      "timestamp": "2026-09-07T18:29:37.104942",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830977.1049428
+    },
+    {
+      "timestamp": "2026-09-07T18:29:37.186381",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830977.1863813
+    },
+    {
+      "timestamp": "2026-09-07T18:29:37.276199",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830977.2761996
+    },
+    {
+      "timestamp": "2026-09-07T18:29:37.375654",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830977.3769941
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.156976",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.1569762
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.244849",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.2448497
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.386407",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.3864074
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.473407",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.4734075
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.568077",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.568077
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.737956",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.7379568
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.829814",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.8298147
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.907674",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.9076748
+    },
+    {
+      "timestamp": "2026-09-07T18:29:38.999499",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830978.999499
+    },
+    {
+      "timestamp": "2026-09-07T18:29:39.098544",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830979.0985448
+    },
+    {
+      "timestamp": "2026-09-07T18:29:39.194830",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830979.1948307
+    },
+    {
+      "timestamp": "2026-09-07T18:29:39.293144",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830979.293144
+    },
+    {
+      "timestamp": "2026-09-07T18:29:39.385637",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830979.385638
+    },
+    {
+      "timestamp": "2026-09-07T18:29:39.474349",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830979.4743497
+    },
+    {
+      "timestamp": "2026-09-07T18:29:39.605727",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788830979.6057277
+    },
+    {
+      "timestamp": "2026-09-07T18:30:51.844557",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831051.844557
+    },
+    {
+      "timestamp": "2026-09-07T18:30:51.958735",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831051.958736
+    },
+    {
+      "timestamp": "2026-09-07T18:30:52.065814",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831052.0658143
+    },
+    {
+      "timestamp": "2026-09-07T18:30:52.235304",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831052.2353046
+    },
+    {
+      "timestamp": "2026-09-07T18:30:52.338037",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831052.3380377
+    },
+    {
+      "timestamp": "2026-09-07T18:30:52.445609",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831052.4456093
+    },
+    {
+      "timestamp": "2026-09-07T18:30:52.574750",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831052.5747502
+    },
+    {
+      "timestamp": "2026-09-07T18:30:52.690871",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831052.6908717
+    },
+    {
+      "timestamp": "2026-09-07T18:30:52.793125",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831052.7931256
+    },
+    {
+      "timestamp": "2026-09-07T18:30:53.880770",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831053.8807702
+    },
+    {
+      "timestamp": "2026-09-07T18:30:53.984768",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831053.9847686
+    },
+    {
+      "timestamp": "2026-09-07T18:30:54.105164",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831054.105164
+    },
+    {
+      "timestamp": "2026-09-07T18:30:54.288143",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831054.2881432
+    },
+    {
+      "timestamp": "2026-09-07T18:30:54.403363",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831054.4033632
+    },
+    {
+      "timestamp": "2026-09-07T18:30:54.567837",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831054.5678372
+    },
+    {
+      "timestamp": "2026-09-07T18:30:54.673977",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831054.6739779
+    },
+    {
+      "timestamp": "2026-09-07T18:30:54.779573",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831054.7795734
+    },
+    {
+      "timestamp": "2026-09-07T18:30:54.882407",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831054.8824074
+    },
+    {
+      "timestamp": "2026-09-07T18:30:55.053596",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831055.053596
+    },
+    {
+      "timestamp": "2026-09-07T18:30:55.208917",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831055.2089176
+    },
+    {
+      "timestamp": "2026-09-07T18:30:55.397494",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831055.3974943
+    },
+    {
+      "timestamp": "2026-09-07T18:30:55.589712",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831055.5897129
+    },
+    {
+      "timestamp": "2026-09-07T18:30:55.764900",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831055.7649002
+    },
+    {
+      "timestamp": "2026-09-07T18:30:55.944260",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831055.9442601
+    },
+    {
+      "timestamp": "2026-09-07T18:30:56.152451",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831056.1524515
+    },
+    {
+      "timestamp": "2026-09-07T18:30:56.450387",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831056.4503877
+    },
+    {
+      "timestamp": "2026-09-07T18:30:56.607797",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831056.6077971
+    },
+    {
+      "timestamp": "2026-09-07T18:30:56.746055",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831056.7460556
+    },
+    {
+      "timestamp": "2026-09-07T18:30:57.066882",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831057.0668824
+    },
+    {
+      "timestamp": "2026-09-07T18:30:57.196038",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831057.1960382
+    },
+    {
+      "timestamp": "2026-09-07T18:30:57.320638",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831057.3206387
+    },
+    {
+      "timestamp": "2026-09-07T18:30:58.539994",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831058.539995
+    },
+    {
+      "timestamp": "2026-09-07T18:30:58.679279",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831058.6792796
+    },
+    {
+      "timestamp": "2026-09-07T18:30:58.858723",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831058.8587234
+    },
+    {
+      "timestamp": "2026-09-07T18:30:58.984962",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831058.9849625
+    },
+    {
+      "timestamp": "2026-09-07T18:31:00.075299",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831060.0752995
+    },
+    {
+      "timestamp": "2026-09-07T18:31:00.214175",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831060.214175
+    },
+    {
+      "timestamp": "2026-09-07T18:31:00.344587",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831060.3445876
+    },
+    {
+      "timestamp": "2026-09-07T18:31:00.463371",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831060.463371
+    },
+    {
+      "timestamp": "2026-09-07T18:31:00.593100",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831060.5931008
+    },
+    {
+      "timestamp": "2026-09-07T18:31:00.735797",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831060.7357972
+    },
+    {
+      "timestamp": "2026-09-07T18:31:00.884055",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831060.8840559
+    },
+    {
+      "timestamp": "2026-09-07T18:31:01.046452",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831061.0464523
+    },
+    {
+      "timestamp": "2026-09-07T18:31:01.215745",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831061.2157454
+    },
+    {
+      "timestamp": "2026-09-07T18:31:01.353900",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831061.3539
+    },
+    {
+      "timestamp": "2026-09-07T18:31:01.480141",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831061.4801419
+    },
+    {
+      "timestamp": "2026-09-07T18:31:01.622254",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831061.6222544
+    },
+    {
+      "timestamp": "2026-09-07T18:31:01.762550",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831061.7625508
+    },
+    {
+      "timestamp": "2026-09-07T18:31:02.076379",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831062.0763793
+    },
+    {
+      "timestamp": "2026-09-07T18:31:02.271718",
+      "hwnd": 3932576,
+      "window_title": "*C:\\Program Files\\Notepad++\\change.log - Notepad++",
+      "success": true,
+      "unix_time": 1788831062.271719
+    }
+  ]
+}
